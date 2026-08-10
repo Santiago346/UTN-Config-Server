@@ -4,10 +4,9 @@ server:
 spring:
   application:
     name: config-server
-  profiles:
-    active: native
   cloud:
     config:
       server:
-        native:
-          search-locations: file:./config-repo
+        git:
+          uri: https://github.com/Santiago346/UTN-Config-Repo
+          default-label: main
