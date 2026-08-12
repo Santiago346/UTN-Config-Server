@@ -9,7 +9,7 @@ Servidor de configuración centralizada para la arquitectura de microservicios b
 
 ## Repositorio de configuración
 
-Los archivos `.yaml` de cada microservicio (`eureka-server.yaml`, `product-service.yaml`, `customer-service.yaml`) viven en un repositorio Git separado: [UTN-Config-Repo](https://github.com/tu-usuario/UTN-Config-Repo).
+Los archivos `.yaml` de cada microservicio (`eureka-server.yaml`, `product-service.yaml`, `customer-service.yaml`) viven en un repositorio Git separado: [UTN-Config-Repo](https://github.com/Santiago346/UTN-Config-Repo).
 
 ## Configuración
 
